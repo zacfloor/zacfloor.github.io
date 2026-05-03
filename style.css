@@ -5,11 +5,6 @@ p{
     line-height: 1.5;
     text-align: center;
 }
-body {
-    background-color: #3a4e38;
-    margin: 0;
-    padding: 20px;
-}
 h1 {
     font-family: 'Arial', sans-serif;
     font-size: 36px;
@@ -27,4 +22,9 @@ h3 {
     font-size: 18px;
     color: #ffffff;
     text-align: center;
+}
+body {
+    background-color: #3a4e38;
+    margin: 0;
+    padding: 20px;
 }
