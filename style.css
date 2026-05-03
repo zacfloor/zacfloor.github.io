@@ -1,7 +1,7 @@
 p{
     font-family: 'Arial', sans-serif;
     font-size: 16px;
-    color: #e9e9e9;
+    color: #ffffff;
     line-height: 1.5;
     text-align: center;
 }
@@ -10,9 +10,21 @@ body {
     margin: 0;
     padding: 20px;
 }
-<h1 {
+h1 {
     font-family: 'Arial', sans-serif;
     font-size: 36px;
+    color: #ffffff;
+    text-align: center;
+}
+h2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+}
+h3 {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
     color: #ffffff;
     text-align: center;
 }
