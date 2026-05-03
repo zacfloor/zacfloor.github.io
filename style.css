@@ -1,7 +1,12 @@
 p{
     font-family: 'Arial', sans-serif;
     font-size: 16px;
-    color: #333333;
+    color: #ffffff;
     line-height: 1.5;
     text-align: center;
+}
+body {
+    background-color: #3a4e38;
+    margin: 0;
+    padding: 20px;
 }
