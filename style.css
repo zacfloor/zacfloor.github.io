@@ -10,7 +10,7 @@ h1 {
     font-size: 36px;
     color: #ffffff;
     text-align: center;
-    text-shadow: #000000 - 1px 0 0, #000000 1px 0 0, #000000 0 -1px 0, #000000 0 1px 0;
+    text-shadow: #000000 - 5px 0 0, #000000 5px 0 0, #000000 0 -5px 0, #000000 0 5px 0;
 }
 h2 {
     font-family: 'Arial', sans-serif;
