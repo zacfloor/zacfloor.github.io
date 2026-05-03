@@ -24,6 +24,10 @@ h3 {
     color: #ffffff;
     text-align: center;
 }
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 body {
     background-color: #3a4e38;
     margin: 0;
